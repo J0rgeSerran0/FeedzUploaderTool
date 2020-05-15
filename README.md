@@ -17,3 +17,5 @@ The use of this tool is very easy.
 Feedz.io is a web site to store and distribute your private NuGet and npm packages.
 
 For more information, access to [Feedz.io](https://feedz.io/)
+
+GitHub repo of Feedz.io [here](https://github.com/feedz-io)

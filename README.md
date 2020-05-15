@@ -13,3 +13,7 @@ The use of this tool is very easy.
 - APIKey: API Key with read/write permissions to upload your NuGet packages into your repository
 - path: path where your NuGet packages are ready to be uploaded (*.nupkg)
 
+## More information
+Feedz.io is a web site to store and distribute your private NuGet and npm packages.
+
+For more information, access to [Feedz.io](https://feedz.io/)
